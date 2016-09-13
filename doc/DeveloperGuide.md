@@ -44,9 +44,14 @@ Priority | As a ... | I want to ... | So that I can...
 `* * *` | new user | see usage instructions | refer to instructions when I forget how to use the App
 `* * *` | user | add a new person |
 `* * *` | user | delete a person | remove entries that I no longer need
+`* * *` | user | edit a person's contact details | get the persons most updated contact details next time
 `* * *` | user | find a person by name | locate details of persons without having to go through the entire list
 `* *` | user | hide [private contact details](#private-contact-detail) by default | to minimize chance of someone else seeing them by accident
+`* *` | user | switch the privacy type of a person's contact details | choose to hide or show contact details of a person 
+`*` | user | import contacts | save contact details  into addressbook from other sources 
 `*` | user with many persons in the address book | sort persons by name | locate a person easily
+`*` | user with many persons in the address book | add person to favourite list | access contacts who I contact often more easily with another list "favourite"
+`*` | user with many persons in the address book | remove person from favourite list | remove people I no longer have to contact often
 
 
 ## Appendix B : Use Cases
